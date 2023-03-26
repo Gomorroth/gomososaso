@@ -9,5 +9,4 @@
 - [Twitter](https://twitter.com/Gomorroth)
 - [FANBOX](https://rerigferl.fanbox.cc/)
 - [Booth](https://ashley-scarlet.booth.pm/)  
-<br/>
-- [ほしいもの](./wishlist.md)
+- [ほしいもの](/wishlist.md)
