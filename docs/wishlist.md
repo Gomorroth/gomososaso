@@ -1,3 +1,9 @@
+---
+layout: default
+title: ゴモル巣
+description: ゴモルの巣、ゴモル巣
+---
+
 # ほしいもの
 ほしいです
 <br/><br/>
