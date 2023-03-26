@@ -1,9 +1,3 @@
----
-layout: default
-title: github pages sample
-description: github pagesのサンプルページです！
----
-
 # ゴモル巣 
 ゴモルの巣、ゴモル巣
 
