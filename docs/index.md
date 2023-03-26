@@ -8,5 +8,4 @@
 ## リンク
 - [Twitter](https://twitter.com/Gomorroth)
 - [FANBOX](https://rerigferl.fanbox.cc/)
-- [Booth](https://ashley-scarlet.booth.pm/)  
-- [ほしいもの](/wishlist.md)
+- [Booth](https://ashley-scarlet.booth.pm/) 
